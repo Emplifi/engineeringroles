@@ -1,9 +1,5 @@
 This repo contains a list of Socialbakers Engineering titles, roles, and associated responsibilities, also known as The Ladder.
 
-This fork works on - Badges!
-
-![alt text](Badges.jpg "Badges!")
-
 
 ### [Developers](developers/developers_path.md)
 
