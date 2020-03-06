@@ -9,19 +9,22 @@ The badges are a complement system to the Ladder - while ladder outlines career 
 ### How can I create a badge?
 Simple. Badges must meet the following criteria:
 #### 1. A badge achievement must be a measurable, objective, pass fail criteria.
-###### Example Badge: *Good presenter*
-Do: Presented to an audience of at least 50 people
-Don't: Had a nice, well structured presentation
+##### Example Badge: *Good presenter*
+*Do*: Presented to an audience of at least 50 people
+
+*Don't*: Had a nice, well structured presentation
 
 #### 2. A badge must be achievable by one person in reasonable time
-###### Example Badge: *CR Knight*
+##### Example Badge: *CR Knight*
 Do: Performed 1000 code reviews
+
 Don't: Invested 100000 hours reviewing code
 
 #### 3. Badges must reflect behavior that are contributing to the company as well as to the team of the badge winner
-###### Example badge: *CR Knight*
+##### Example badge: *CR Knight*
 Do: Performed 1000 code reviews
-Don't: Performed a code review in full plate armor [^1]
+
+Don't: Performed a code review in full plate armor <sup>1</sup>
 
 
 
@@ -32,4 +35,4 @@ There are things that we sometimes do, however, that are great and should be cel
 
 
 
-[^1]: That's an awesome achievement though, and should someone do this post pictures on Slack
+<sup>1</sup> 'That's an awesome achievement though, and should someone do this post pictures on Slack'
