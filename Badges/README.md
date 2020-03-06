@@ -26,8 +26,9 @@ Do: Performed 1000 code reviews
 Don't: Performed a code review in full plate armor <sup>1</sup>
 
 ### What are the badges for?
-The Ladder exists to make career progression at Socialbakers' engineering department more transparent and easier to understand, and it rewards technical excellence alongside effective behaviors and communication skills.  
-There are things that we sometimes do, however, that are great and should be celebrated - things that do not immediately contribute to promotion chances, such as being an exceptional code reviewer, a great presenter, or a wonderful mentor. The badge system is used to highlight these achievements, and allows us all to recognize the good things that you and your colleagues do here.
+The Ladder exists to make career progression at Socialbakers' engineering department more transparent and easier to understand, and it rewards technical excellence alongside effective thinking patterns and communication skills.  
+There are things that we do, however, that are great and should be celebrated, even when they do not immediately contribute to a career path. Things such as being an exceptional code reviewer, a great presenter, or a wonderful asset to the PO are not a part of the Ladder - and yet, they are important to all of us.  
+The badge system is used to highlight these achievements, and allows us all to recognize the good things that you and your colleagues do here.
 
 
 ____
