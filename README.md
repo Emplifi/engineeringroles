@@ -20,5 +20,5 @@ This repo contains a list of Socialbakers Engineering titles, roles, and associa
 
 
 ### [Badges](Badges/badges_readme.md)
-* [Badges readme](Badges/badges_readme.md)
+* [Readme](Badges/badges_readme.md)
 * [Badge examples](Badges/Examples)
