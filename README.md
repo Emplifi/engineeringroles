@@ -19,6 +19,5 @@ This repo contains a list of Socialbakers Engineering titles, roles, and associa
 * [VP, Engineering](managers/vp_engineering.md)
 
 
-### [Badges](Badges/badges_readme.md)
-* [Readme](Badges/badges_readme.md)
+### [Badges](Badges/README.md)
 * [Badge examples](Badges/Examples)
