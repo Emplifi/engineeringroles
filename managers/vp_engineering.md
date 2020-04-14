@@ -3,7 +3,7 @@
 *Same as Director, but also...*
  
 ### Should have
-* Several years experience managing multiple teams of engineers
+* Experience managing multiple teams inside Engineering department
 * A desire to focus on results and delivery, and management of individuals and teams towards delivery of results
 * Experience and excellence in communicating with executives, board members, and leaders of other departments
 * Experience and a strong desire to focus on leading engineering team-wide initiatives to continuously improve engineering team execution, capacity, delivery of results, process, and culture

@@ -3,14 +3,12 @@
 ## The Engineering Manager is accountable for building high performing teams.
 
 ### Accountabilities
-* *If the team has low CvD[1] (under 90%) it’s on the EM*
-* *If the team has low commitment (below 70% of capacity) it’s on the EM*
-* *If the team isn’t continuously improving their process to deliver more effectively & reduce bottlenecks, it’s on the EM*
-* *If the team is not communicating well or working well together it’s on the EM.*
-* *If the engineers who report to them don’t have the right skillset to tackle their problems it’s on the EM*
-* *If the engineers who report to them aren’t focussed on their work it’s on the EM*
-* *If engineers that report to them have performance problems that impact teams being able to deliver, it’s on the EM*
-* *If engineers that report to them don’t have personal goals & career development plans, it’s on the EM*
+* *Maintain CvD[1] over 90%*
+* *Maintain commitment of team above 70% of capacity*
+* *Continuously improve team process to deliver more effectively & reduce bottlenecks*
+* *Ensure that team is communicating well and working well together*
+* *Make sure that team members have a good growth plan*
+* *Empower the team to solve individial performance issues*
 
 
 ### Responsibilities
@@ -20,7 +18,7 @@
 * Lead necessary tradeoff decisions with the PM, PO, Designer, and team
 
 #### Process
-* Evolve Agile approach to fit team and project needs.
+* Evolve Agile approach to fit team and project needs
 * Foster continuous improvement mindset amongst team
 * Challenge team to identify bottlenecks & ways of speeding up delivery
 * Helping in breakdown of a problem into an executable action plan for themselves and other engineers 

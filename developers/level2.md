@@ -15,7 +15,7 @@
 * Pair often and provide some guidance to more junior engineers
 * Seek to tie stories back to user value & impact for our members & organizers
 * Be able to dive in to an area of the code/product that they’re not familiar with & make changes
-* Be among first who assign themselves to issues found during release testing
+* Actively engage in fixing RC bugs
 
 ### Red flags
 * Quality of code is nor perceived as good
