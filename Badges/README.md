@@ -34,4 +34,4 @@ The badge system is used to highlight these achievements, and allows us all to r
 
 ____
 
-<sup>1</sup> *That's an awesome achievement though, and should someone do this post pictures on Slack*
+<sup>1</sup> *That's an awesome achievement though, and should someone do this, please post pictures on Slack*
