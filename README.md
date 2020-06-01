@@ -23,6 +23,8 @@ The Ladder was invented to make career progression at Socialbakers' engineering 
 
   The system is created as exception based, meaning that we don't assume that we have all-fitting people. Therefore, discussion about level is goal-based, not proof-based. For instance, we can say "*We see you nearly at Level 3, to get there, however, we need you to be more proactive in feature refinement meetings*". We can also mark some traits as exceptional in specific cases, such as "*You are a great solution architect and we don't expect that you will speak in public, despite it's described as a requirement at your level*".
 
+It's important to acknowledge that we don't push employees into management roles just in order to get upward in responsibility or compensation, irrespecitvely of their skillset or strengths. We want to go for an ideal use of each talent and set up a viable career path so that everyone may become an excellent contributor for the company in general. The responsibility of each manager is to find the best way to put each individual on a path that could maximize the user of their talent.
+
 ### [Developers](developers/developers_path.md)
 
 * [Level0](developers/intern.md)
