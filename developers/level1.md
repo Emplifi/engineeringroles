@@ -1,5 +1,5 @@
 # Engineer L1
-> You made it to Level 1. This is good. It does not mean you are a bad programmer, on contrary. We expect a lot from our L1 programmers. You are independent, skilled developer capable of writing a good code.
+> You made it to Level 1. This is good. It does not mean you are a bad programmer, on the contrary. We expect a lot from our L1 programmers. You are independent, skilled developer capable of writing a good code.
 
 ### Should have
 
@@ -27,4 +27,3 @@
 * Stories are delivered without test coverage and as a result are returned from QA repeatedly
 * Does not participate in team meetings
 
-### Practical Examples

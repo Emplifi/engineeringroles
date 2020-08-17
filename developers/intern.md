@@ -1,6 +1,5 @@
-# Intern&Probation
-> You are good. Only 20% of candidates pass socialbakers interview. What we expect from you is that you gain the general knowledge of Socialbakers systems soon and you will level up to 1. We have a limited capacity needed to this job level and we do not plan to keep this level as a long term. This level is expected to be mentored by more experienced developer.
-
+# Intern & Probation
+> You are good. Only 20% of candidates pass Socialbakers interview. What we expect from you is that you gain the general knowledge of Socialbakers systems soon and you will level up to 1. We have a limited capacity needed for this job level and we do not plan to keep this level in a long term. This level is expected to be mentored by more experienced developer.
 
 ### Should have
 * Competency to learn at least one programming language

@@ -58,6 +58,7 @@
 * EM is present on every daily standup meeting making sure that daily operation of the team is proceeding smoothly
 * EM is facilitating discussion on feature refinement meetings and helping POs and team to shape the major fragments of work
 * EM is helping on sprint refinement meetings by facilitating discussion about tasks (stories and bugs)
+* EM is pushing for a releasing code, especially he make sure that release related bugs are being solved with urgent priority
 
 [1] CvD = committed versus delivered: metric showing the amount of stories team promised and delivered (according to definition of done)
 

@@ -1,26 +1,25 @@
 # Badges!
 
-### What are badges?
-The badges are a complement system to the Ladder - while ladder outlines career paths, the badges reward behaviors and achievements we respect and appreciate in our fellows.
+### What are the badges?
+The badges are a complementing tool to the Ladder - while ladder outlines career paths, badges reward behaviors and achievements we respect and appreciate in our team members.
 
 ### How can I create a badge?
 Simple. Badges must meet the following criteria:
-#### 1. A badge achievement must be a measurable, objective, pass fail criteria.
-###### Example Badge: *Good presenter*
-Do: Presented to an audience of at least 50 people
-Don't: Had a nice, well structured presentation
+#### 1. Badge achievement must be a measurable, objective and have clear pass-fail criteria.
+###### Example: *Good speaker*
+Do: Prepared an educative talk for an audience of ~50+ people
+Don't: Uploaded a few well-structured presentations
 
-#### 2. A badge must be achievable by one person in reasonable time
-###### Example Badge: *CR Knight*
-Do: Performed 1000 code reviews
-Don't: Invested 100000 hours reviewing code
+#### 2. A badge must be achievable by one person in a reasonable time
+###### Example: *Code Review Knight*
+Do: Reviewed 100 pull requests, helping his teammates to get on the right track
+Don't: Invested 100 hours in reviewing code
 
-#### 3. Badges must reflect behavior that are contributing to the company as well as to the team of the badge winner
-###### Example badge: *CR Knight*
-Do: Performed 1000 code reviews
-Don't: Performed a code review in full plate armor [^1]
+#### 3. Badges must reflect behavior that are contributing to the team, the community and the company
+###### Example: *Mentor Mage*
+Do: Wrote a resourceful documentation for 10 new features 
+Don't: Left several instructions for his team-mates of how to proceed
 
 
 ### What are the badges for?
-The Ladder exists to make career progression at Socialbakers engineering department more transparent and easier to understand, and it rewards technical excellence alongside effective behaviors and communication skills.
-There are things that we sometimes do, however, that are great and should be celebrated that do not immediately contribute to promotion chances - being an exceptional code reviewer,
+The Ladder rewards technical excellence alongside effective behaviors and communication skills. It doesn't, however, cover all aspects and abilities one may possess and we should appreciate. Thus, the badges should serve as an additional tool to celebrate accomplishments, despite the fact they don't necessarily lead into a promotion.

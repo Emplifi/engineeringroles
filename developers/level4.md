@@ -29,6 +29,6 @@
 * Tries to enforce his views on solution 
 
 ### Practical examples
-* L4 is active on Value Steam meetings
-* L4 is most valueable person on feature refinements
+* L4 is active in Value Stream meetings
+* L4 is most valuable person on feature refinements
 * L4 is the person raising alarm that some cross team dependencies are not resolved

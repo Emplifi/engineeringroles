@@ -1,5 +1,5 @@
 # Engineer L3
-> Level 3 is the most needed team member. It does not mean we will limit the growth to higher levels, but on this level, you actually contribute in main areas of productivity for a developer. 
+> Level 3 is the most needed team member. It does not mean we will limit the growth to higher levels, but on this level, you actually contribute in main areas of productivity as a developer. 
 
 *Same as L1, L2, but also...*
 
@@ -15,7 +15,6 @@
 * A high level of understanding about where their work fits in and how to be useful and successful on their team
 * A high level of craftsmanship about their work, the end experience of the user, and impact on overall product
 * Demonstrated an open minded attitude to solutions presented by product and design and help to iterate and improve those solutions
-* 
 
 ### Is expected to
 
