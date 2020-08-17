@@ -17,7 +17,7 @@
 * Work with senior managers & directors to ensure engineering effort is focussed on the most impactful areas for their value stream
 * Monitor technical performance of engineers in his value stream, and partner with engineering managers and leads on mentoring and growth
 * Develop and constantly refine technical, leadership, and team fit assessments (coding exercises, interview questions, etc) for interviews across the Engineering organization
-* Lead code/design/architecture reviews across teams and mentor & coach engineers to ensure work follows best practices & standards. 
+* Lead code/design/architecture reviews across teams and mentor & coach engineers to ensure work follows best practices & standards.
 * Be accountable for keeping codebase aligned with best practices
 * Create and evolve value stream wide practices and share with the rest of the organization
 * Acts as a mentor to other senior and staff engineers who are developing their own mentees
@@ -26,9 +26,9 @@
 ### Red flags
 * Fails to identify and remove big roadblocks
 * Crunch time in the team
-* Tries to enforce his views on solution 
+* Tries to enforce his views on solution
 
 ### Practical examples
-* L4 is active on Value Steam meetings
-* L4 is most valueable person on feature refinements
+* L4 is active on Value Stream meetings
+* L4 is most valuable person on feature refinements
 * L4 is the person raising alarm that some cross team dependencies are not resolved

@@ -8,8 +8,10 @@
 * *Continuously improve team process to deliver more effectively & reduce bottlenecks*
 * *Ensure that team is communicating well and working well together*
 * *Make sure that team members have a good growth plan*
-* *Empower the team to solve individial performance issues*
+* *Empower the team to solve individual performance issues*
 
+### Responsibilities
+#### To your team
 
 ### Responsibilities
 #### Planning
@@ -21,11 +23,11 @@
 * Evolve Agile approach to fit team and project needs
 * Foster continuous improvement mindset amongst team
 * Challenge team to identify bottlenecks & ways of speeding up delivery
-* Helping in breakdown of a problem into an executable action plan for themselves and other engineers 
+* Helping in breakdown of a problem into an executable action plan for themselves and other engineers
 * Generate support for a company/team decision
 * Work across engineering teams (dev, QA, devops) to ensure new code launches smoothly and customer needs are met
 #### Meetings
-* Guide effectiveness of team meetings. Ensure agendas/purpose are clear & actions captured. 
+* Guide effectiveness of team meetings. Ensure agendas/purpose are clear & actions captured.
 
 #### Sprint coordination
 * Manage technical WIP & help with/raise blockers
@@ -39,7 +41,7 @@
 * Ensure engineers have the skills needed to support their team
 * Ensure engineers are focussed on the sprint & stories at hand
 * Deal with team interpersonal issues
-* Deal with performance issues 
+* Deal with performance issues
 * Solving, not creating problems
 * The ability to work with leadership during an emergency situation to identify and communicate impact and progress
 * Create compensation change recommendations and share with directors
@@ -60,4 +62,3 @@
 * EM is helping on sprint refinement meetings by facilitating discussion about tasks (stories and bugs)
 
 [1] CvD = committed versus delivered: metric showing the amount of stories team promised and delivered (according to definition of done)
-
