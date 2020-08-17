@@ -12,17 +12,17 @@ Sure!
 Simple. Badges must meet the following criteria:
 #### 1. A badge achievement must be a measurable, objective, pass fail criteria.
 ###### Example: **Good speaker**
-Do: Prepared an educative talk for an audience of ~50+ people
+Do: Prepared an educative talk for an audience of ~50+ people  
 Don't: Uploaded a few well-structured presentations
 
 #### 2. A badge must be achievable by one person in reasonable time
 ###### Example: **Code Review Knight**
-Do: Reviewed 100 pull requests, helping his teammates get on the right track
+Do: Reviewed 100 pull requests, helping his teammates get on the right track  
 Don't: Invested 100 hours in reviewing code
 
 #### 3. Badges must reflect behavior that are contributing to the company as well as to the team of the badge winner
 ###### Example: **Mentor Mage**
-Do: Wrote a resourceful documentation for 10 new features
+Do: Wrote a resourceful documentation for 10 new features  
 Don't: Reviewed code while wearing a sparkly robe and pointy hat <sup>1</sup>
 
 
