@@ -3,7 +3,7 @@
 ## The Engineering Manager is accountable for building high performing teams.
 
 ### Accountabilities
-* *Maintain CvD[1] over 90%*
+* *Maintain CvD<sup>1</sup> over 90%*
 * *Maintain commitment of team above 70% of capacity*
 * *Continuously improve team process to deliver more effectively & reduce bottlenecks*
 * *Ensure that team is communicating well and working well together*
@@ -47,7 +47,7 @@
 * EM is present on every daily standup meeting making sure that daily operation of the team is proceeding smoothly
 * EM is facilitating discussion on feature refinement meetings and helping POs and team to shape the major fragments of work
 * EM is helping on sprint refinement meetings by facilitating discussion about tasks (stories and bugs)
-* EM coordinates with leadership team to enable better learning for their engineers
+* EM is coordinating with the leadership team to enable better learning and growth for their engineers
 * EM is pushing towards great released code and handles release related bugs immediately
 
-[1] CvD = committed versus delivered: metric showing the amount of stories team promised and delivered (according to definition of done)
+<sup>1</sup> CvD = committed versus delivered: metric showing the amount of stories team promised and delivered (according to definition of done)
